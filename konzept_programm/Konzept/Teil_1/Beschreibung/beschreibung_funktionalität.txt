@@ -1,0 +1,6 @@
+Die Website soll es Nutzern möglich machen, ihre Fitnessstudios auf einer Karte zu markieren und ihre Meinung dazu zu äußern.
+Neueinsteigern bzw. Leuten die ihr Studio wechseln möchten oder müssen soll es möglich sein, schnell und einfach 
+das beste Sudio in ihrer Nähe zu finden.
+Dazu ist es möglich auf einer Karte die eigene Position zu markieren (die automatisch ermittelt wird)
+und einen Kommentar dazu zu verfassen.
+Auf einer Karte mit Markern kann man sich dann die Kommentare aller anderen Nutzer anschauen.

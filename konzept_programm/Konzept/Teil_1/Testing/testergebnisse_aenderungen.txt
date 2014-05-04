@@ -1,0 +1,8 @@
+Home:
+Der Markiere dich Button stört hier wohl, da der Nutzer noch garnicht genau weis worauf er sich einlässt.
+Außerdem stört er die Ästhetik der Seite.
+Im Folgenden wurde der Button nach unten versetzt und ein kleiner Beschreibungstext hinzugefügt.
+
+Karte:
+Da die Karte recht viele Marker innerhalb kleiner Bereiche (Städte) umfassen kann, sollte sie möglichst groß sein.
+Im Folgenden dehnt sich die Karte auf das gesamte Browserfenster aus.

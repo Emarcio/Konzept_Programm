@@ -1,0 +1,11 @@
+Was ist das hier für eine Seite? Weis ich genug darüber, um sie zu benutzen? :
+
+Ein sehr interessanter AB-Test wäre, den "Markieren" Button so wie ursprünglich gedacht einmal über den 3 Bildern zu zeigen
+und einmal, wie von unseren Screentestern vorgesehen, unter den 3 Bildern zu platzieren.
+-> Beeinflussen würde das die Anzahl der erstellten Mapmarker (1. KPI)
+
+
+
+Ein anderer AB-Test wäre die Farbe der Mapmarker zu verändern. Ist ein grüner Mapmarker vieleicht ansprechender als ein blauer?
+Oder kann man ihn auf der Karte eventuell einfach besser sehen. (siehe Wireframe)
+-> Beeinflussen würde das die Anzahl der angeklickten Mapmarker (2. KPI)

@@ -1,0 +1,6 @@
+- Die Anzahl der Besucher der Website im Vergleich zu der Anzahl der Leute die Markierungen hinterlassen.
+
+- Die Anzahl der Besucher der Website im Vergleich zu der Anzahl der Leute die mindestens einen Mapmarker anklicken
+
+- Die Anzahl der erstellten Mapmarker z.B. pro Landkreis um die räumliche Verbreitung zu messen
+	(natürlich unter Berücksichtigung der Landkreisgröße)

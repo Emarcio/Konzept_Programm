@@ -1,0 +1,22 @@
+@media only screen and (max-width: 700px) {
+    .text-area.textarea-wrapper, .text-field {
+        width: 93.3% !important;
+    }
+    select {
+        width: 96.3%;
+    }
+}
+.buttons_inner_wrapper {
+    bottom: 0;
+    position: relative;
+    text-align: center;
+    top: -342px;
+    z-index: 100;
+}
+.text-area.textarea-wrapper, .text-field {
+    width: 98.3%;
+}
+input[type="text"], 
+input[type="email"] {
+    height: 2.3125rem;
+}
