@@ -16,6 +16,10 @@
 .text-area.textarea-wrapper, .text-field {
     width: 98.3%;
 }
+textarea {
+    max-width: 1002px !important; 
+    min-width: 1002px !important;
+}
 input[type="text"], 
 input[type="email"] {
     height: 2.3125rem;

@@ -29,7 +29,7 @@ include 'includes/header.php'
             <input type="hidden" name="lat">
             <input type="hidden" name="lng">
             <div class="text-area textarea-wrapper">
-                <textarea style="max-width: 1020px;" rows="10" cols="10" name="kommentar" placeholder="Teile uns deine Meinung mit"></textarea>
+                <textarea style="max-width: 1020px; min-height: 50px;" rows="10" cols="10" name="kommentar" placeholder="Teile uns deine Meinung mit"></textarea>
             </div>
             <select name="public">
                 <option value="1">Oeffentlich</option>
