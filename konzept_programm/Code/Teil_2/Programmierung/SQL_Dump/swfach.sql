@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Erstellungszeit: 04. Mai 2014 um 15:21
+-- Erstellungszeit: 04. Mai 2014 um 19:26
 -- Server Version: 5.6.16
 -- PHP-Version: 5.5.11
 
@@ -41,11 +41,11 @@ CREATE TABLE IF NOT EXISTS `marker` (
 --
 
 INSERT INTO `marker` (`id`, `name`, `kommentar`, `public`, `lat`, `lng`) VALUES
-(18, 'Marco Kudala', 'Megasports ist MEga!', 1, 50.252, 11.1967),
-(21, 'haöllaosdf', 'ashjfhjlgjklawefdsafgsdfgasdftgadfg ashjfhjlgjklawefdsafgsdfgasdftgadfg ashjfhjlgjklawefdsafgsdfgasdftgadfg\r\nashjfhjlgjklawefdsafgsdfgasdftgadfgashjfhjlgjklawefdsafgsdfgasdftgadfgashjfhjlgjklawefdsafg', 0, 49.652, 11.1067),
-(25, 'Hans-Klopfer Weg 2a', 'Hans-Klopfer Weg 2a', 0, 49.852, 11.1367),
-(28, 'Hans-Klopfer Weg 2a', 'Hans-Klopfer Weg 2a', 1, 50.052, 11.1667),
-(31, 'marco', 'ist cool', 0, 49.452, 11.0767);
+(18, 'Arni', 'Cooles Studio, nette Trainer usw.\nAustattung auch absolut genial!', 1, 50.252, 11.1967),
+(21, 'Hans', 'Cooles Studio, nette Trainer usw.\nAustattung auch absolut genial!', 0, 49.652, 11.1067),
+(25, 'Phipsi', 'Cooles Studio, nette Trainer usw.\nAustattung auch absolut genial!', 0, 49.852, 11.1367),
+(28, 'Hodor', 'Cooles Studio, nette Trainer usw.\nAustattung auch absolut genial!', 1, 50.052, 11.1667),
+(31, 'Marco', 'Cooles Studio, nette Trainer usw.\nAustattung auch absolut genial!', 0, 49.452, 11.0767);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
