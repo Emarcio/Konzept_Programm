@@ -35,6 +35,9 @@
             <div id="logo">
                 <img id="logo-inline" width="150" src="images/logo.png" alt="logo"/>
             </div>
+            <div id="logo-responsive" style="display: none;">
+                <img id="logo-inline" width="80" src="images/logo_responsive.png" alt="logo"/>
+            </div>
             <div id="nav">
                 <div class="ul_wrapper">
                     <ul id="nav_ul">
