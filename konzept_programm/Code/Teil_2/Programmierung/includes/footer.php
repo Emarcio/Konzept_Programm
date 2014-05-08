@@ -1,13 +1,19 @@
 <div id="footer">
     <div id="inner_footer">
         <div id="row1" class="row">
-            <a href="https://www.facebook.com/marco.kudala"><p>-Marco-</p></a>
+            <a href="https://www.facebook.com/marco.kudala">
+                <span>-Marco-</span>
+            </a>
         </div>
         <div id="row2" class="row">
-            <a href="https://www.facebook.com/felix.werkstetter?fref=ts"><p>-Felix-</p></a>
+            <a href="https://www.facebook.com/felix.werkstetter?fref=ts">
+                <span>-Felix-</span>
+            </a>
         </div>
         <div id="row3" class="row">
-            <a href="https://www.facebook.com/adzibo?fref=ts"><p>-Adrian-</p></a>
+            <a href="https://www.facebook.com/adzibo?fref=ts">
+                <span>-Adrian-</span>
+            </a>
         </div>
     </div>
 </div>

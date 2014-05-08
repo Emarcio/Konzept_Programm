@@ -65,7 +65,7 @@ function displayPoints(points) {
             position: markerPos,
             animation: google.maps.Animation.DROP,
             icon: iconPath,
-            title: points[i].id
+            title: points[i].name         // nach dem punkt ändern, entsprechend der benennung in der DB
         });
 
         google.maps.event.addListener(marker, 'click', function() {

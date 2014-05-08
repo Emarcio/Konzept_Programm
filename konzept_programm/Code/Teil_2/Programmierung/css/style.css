@@ -7,16 +7,6 @@ body{
 .karte {
     background: #FFF;
 }
-#footer a {
-    text-decoration: none;
-    color: #FFF;
-    transition: color 0.4s ease 0s;
-}
-#footer a:hover {
-    text-decoration: none;
-    color: #242424;
-    transition: color 0.4s ease 0s;
-}
 h1 {
     color: #000000;
     font-family: 'Open Sans',sans-serif;
@@ -245,6 +235,18 @@ p {
     height:150px;
     background-color: #36CC7C;
     width:100%;
+}
+#footer a{
+    text-decoration: none;
+}
+#footer span{
+    color: #FFF;
+    transition: color 0.4s ease 0s;
+}
+#footer span:hover {
+    text-decoration: none;
+    color: #242424;
+    transition: color 0.4s ease 0s;
 }
 #inner_footer {
     margin: 0 auto;
