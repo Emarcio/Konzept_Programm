@@ -18,7 +18,6 @@
 }
 textarea {
     max-width: 1002px !important; 
-    min-width: 1002px !important;
 }
 input[type="text"], 
 input[type="email"] {

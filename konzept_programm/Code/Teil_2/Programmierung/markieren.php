@@ -4,8 +4,8 @@ include 'includes/header.php'
 
 <div class="map-title">
     <hgroup>
-        <h1>Hier kannst du deine <strong class="green-strong">Marker</strong> sehen</h1>
-        <h3>und <strong class="green-strong">klick</strong> doch mal auf einen.</h3>
+        <h1>Markiere <strong class="green-strong">Dich</strong> und</h1>
+        <h3>bewundere dann deinen <strong class="green-strong">Marker</strong> auf unserer Karte!</h3>
     </hgroup>
 </div>
 
@@ -35,7 +35,9 @@ include 'includes/header.php'
                 <option value="1">Oeffentlich</option>
                 <option value="0">Privat</option>
             </select>
-            <button type="submit">Absenden</button>
+            <div class="button-field">
+                <button type="submit">Absenden</button>
+            </div>
         </form>
         <script src="scripts/geocode.js"></script>
     </div>

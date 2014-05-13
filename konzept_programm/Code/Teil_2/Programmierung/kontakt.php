@@ -31,12 +31,14 @@ include 'includes/header.php'
                 </div>
                 <div class="text-area textarea-wrapper">
                     <label class="label-title" for="comments"> Dein Belangen </label>
-                    <textarea style="height: 200px; max-width: 1020px; min-width: 1020px; min-height: 3.3125rem;" name="textfeld" id="comments" placeholder="Wie kann ich Dir weiterhelfen?" required></textarea>
+                    <textarea style="height: 200px; max-width: 1020px; min-height: 3.3125rem;" name="textfeld" id="comments" placeholder="Wie kann ich Dir weiterhelfen?" required></textarea>
                 </div>
-                <input type="submit" value="Senden" id="submit-button" class="button">
-                <input type="reset" value="Zuruecksetzen" id="reset-button" class="button">
+                <div class="button-field">
+                    <input type="submit" value="Senden" id="submit-button" class="button">
+                    <input type="reset" value="Zuruecksetzen" id="reset-button" class="button">
+                </div>
             </form>
-         </div>   
+        </div>   
     </div>
 </div>
 

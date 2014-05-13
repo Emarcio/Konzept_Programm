@@ -95,6 +95,20 @@
         clear: both;
         margin-top: 1rem;
     }
+    .button-field {
+        text-align: center;
+    }
+    #inner_footer {
+        padding-top: 30px;
+    }
+    #row2 {
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .row {
+        float: none !important;
+        width: 100% !important;
+    }
 }
 
 

@@ -13,7 +13,7 @@ if (isset($_GET['id'])) {
                 . '<div id="content">'
                 . '<h1 class="h1-locate">Fehlerhafte ID uebergeben </h1>'
                 . '<p>Zurueck zur Hauptseite</p>'
-                . '<a class="button" href="karte.php">Home</a>'
+                . '<a class="button" href="index.php">Home</a>'
                 . '</div>'
                 . '</div>');
     }
@@ -22,7 +22,7 @@ if (isset($_GET['id'])) {
             . '<div id="content">'
             . '<h1 class="h1-locate">Keine ID uebergeben </h1>'
             . '<p>Zurueck zur Hauptseite</p>'
-            . '<a class="button" href="karte.php">Home</a>'
+            . '<a class="button" href="index.php">Home</a>'
             . '</div>'
             . '</div>');
 }
@@ -43,8 +43,9 @@ if (isset($_GET['id'])) {
         <div class="kommentar-wrapper">
             <h3 class="h1-locate"><?= htmlentities($data['kommentar']); ?></h3> <!-- werte aus datenbank in html ausgeben -->
         </div>
-        <h3 class="h3-details">Zurueck zur Karte</h3>
-        <div class="a-details">
+
+        <div class="button-field">
+            <h3 class="h3-details">Zurueck zur Karte</h3>
             <a class="button" href="karte.php">Karte</a>
         </div> 
     </div>
