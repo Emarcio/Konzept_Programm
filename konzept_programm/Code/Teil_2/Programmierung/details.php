@@ -12,8 +12,8 @@ if (isset($_GET['id'])) {
         die('<div id="wrapper">'
                 . '<div id="content">'
                 . '<h1 class="h1-locate">Fehlerhafte ID uebergeben </h1>'
-                . '<p>Zurueck zur Hauptseite</p>'
-                . '<a class="button" href="index.php">Home</a>'
+                . '<p>Zurueck zur Karte</p>'
+                . '<a class="button" href="karte.php">Karte</a>'
                 . '</div>'
                 . '</div>');
     }
@@ -21,8 +21,8 @@ if (isset($_GET['id'])) {
     die('<div id="wrapper">'
             . '<div id="content">'
             . '<h1 class="h1-locate">Keine ID uebergeben </h1>'
-            . '<p>Zurueck zur Hauptseite</p>'
-            . '<a class="button" href="index.php">Home</a>'
+            . '<p>Zurueck zur Karte</p>'
+            . '<a class="button" href="karte.php">Karte</a>'
             . '</div>'
             . '</div>');
 }
