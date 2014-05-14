@@ -399,3 +399,29 @@ label {
     line-height: inherit;
 }
 /* ====== FORM STYLES END ====== */
+
+.logo-inline-new {
+    height: 150px;
+    left: 0;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    width: 150px;
+    z-index: 444;
+}
+.logo-inline-responsive {
+    height: 68px;
+    left: 0;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    width: 68px;
+    z-index: 444;
+}
+.logo-inline-new a {
+    float: left;
+}

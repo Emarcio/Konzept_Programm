@@ -33,10 +33,18 @@
     <body class="karte">
         <div class="nav-wrapper">
             <div id="logo">
-                <img id="logo-inline" width="150" src="images/logo.png" alt="logo"/>
+                <h1 class="logo-inline-new">
+                    <a href="index.php">
+                        <img src="images/logo.png" width="150" alt="logo"/>
+                    </a>
+                </h1>
             </div>
             <div id="logo-responsive" style="display: none;">
-                <img id="logo-inline" width="80" src="images/logo_responsive.png" alt="logo"/>
+                <h1 class="logo-inline-responsive">
+                    <a href="index.php">
+                        <img src="images/logo_responsive.png" width="80" alt="logo"/>
+                    </a>
+                </h1>
             </div>
             <div id="nav">
                 <div class="ul_wrapper">
@@ -51,53 +59,53 @@
             <div class="mean-div"></div>
         </div>
 
-<div class="map-title">
-    <hgroup>
-        <h1>Deine <strong class="green-strong">Mitteilung</strong> wurde uebermittelt,</h1>
-        <h3>wir werden uns so <strong class="green-strong">schnell wie moeglich</strong> darum kuemmern.</h3>
-    </hgroup>
-</div>
-
-<div id="wrapper-danke">   
-    <div id="content-danke">
-        <h1 class="h1-locate">Vielen Dank fuer deine Mitteilung</h1>
-        <p>Wir werden uns so schnell wie morglich um dein Anliegen kuemmern</p>
-        <a class="button" href="index.php">Startseite</a>
-    </div>
-</div>
-
-<div class="map-title-bottom-danke">
-    <hgroup>
-        <h1>Die <strong class="green-strong"> besten Infos </strong> ueber alle <strong class="green-strong"> Studios! </strong></h1>
-        <h3>bekommt ihr <strong class="green-strong"> nur </strong> auf unserer Seite! </h3>
-    </hgroup>
-</div>
-
-<div id="footer-danke">
-    <div id="inner_footer">
-        <div id="row1" class="row">
-            <a href="https://www.facebook.com/marco.kudala">
-                <span>-Marco-</span>
-            </a>
+        <div class="map-title">
+            <hgroup>
+                <h1>Deine <strong class="green-strong">Mitteilung</strong> wurde uebermittelt,</h1>
+                <h3>wir werden uns so <strong class="green-strong">schnell wie moeglich</strong> darum kuemmern.</h3>
+            </hgroup>
         </div>
-        <div id="row2" class="row">
-            <a href="https://www.facebook.com/felix.werkstetter?fref=ts">
-                <span>-Felix-</span>
-            </a>
-        </div>
-        <div id="row3" class="row">
-            <a href="https://www.facebook.com/adzibo?fref=ts">
-                <span>-Adrian-</span>
-            </a>
-        </div>
-    </div>
-</div>
 
-<script type="text/javascript"
-        src="http://maps.googleapis.com/maps/api/js?sensor=false">
-</script>
-<script type="text/javascript" src="scripts/jquery.meanmenu.js"></script>
-<script type="text/javascript">
+        <div id="wrapper-danke">   
+            <div id="content-danke">
+                <h1 class="h1-locate">Vielen Dank fuer deine Mitteilung</h1>
+                <p>Wir werden uns so schnell wie morglich um dein Anliegen kuemmern</p>
+                <a class="button" href="index.php">Startseite</a>
+            </div>
+        </div>
+
+        <div class="map-title-bottom-danke">
+            <hgroup>
+                <h1>Die <strong class="green-strong"> besten Infos </strong> ueber alle <strong class="green-strong"> Studios! </strong></h1>
+                <h3>bekommt ihr <strong class="green-strong"> nur </strong> auf unserer Seite! </h3>
+            </hgroup>
+        </div>
+
+        <div id="footer-danke">
+            <div id="inner_footer">
+                <div id="row1" class="row">
+                    <a href="https://www.facebook.com/marco.kudala">
+                        <span>-Marco-</span>
+                    </a>
+                </div>
+                <div id="row2" class="row">
+                    <a href="https://www.facebook.com/felix.werkstetter?fref=ts">
+                        <span>-Felix-</span>
+                    </a>
+                </div>
+                <div id="row3" class="row">
+                    <a href="https://www.facebook.com/adzibo?fref=ts">
+                        <span>-Adrian-</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript"
+                src="http://maps.googleapis.com/maps/api/js?sensor=false">
+        </script>
+        <script type="text/javascript" src="scripts/jquery.meanmenu.js"></script>
+        <script type="text/javascript">
             $(document).ready(function() {
 
                 // MEANMENU
@@ -110,12 +118,12 @@
                     meanRevealHoverColour: "FFFFFF"
                 });
             });
-</script>
-<script type="text/javascript" src="scripts/jquery.nivo.slider.js"></script>
-<script type="text/javascript">
+        </script>
+        <script type="text/javascript" src="scripts/jquery.nivo.slider.js"></script>
+        <script type="text/javascript">
             $(window).load(function() {
                 $('#slider').nivoSlider();
             });
-</script>
-</body>
+        </script>
+    </body>
 </html>
