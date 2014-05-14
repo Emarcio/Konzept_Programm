@@ -61,10 +61,18 @@ if (isset($_POST['name']) &&
     <body class="karte">
         <div class="nav-wrapper">
             <div id="logo">
-                <img id="logo-inline" width="150" src="images/logo.png" alt="logo"/>
+                <h1 class="logo-inline-new">
+                    <a href="index.php">
+                        <img src="images/logo.png" width="150" alt="logo"/>
+                    </a>
+                </h1>
             </div>
             <div id="logo-responsive" style="display: none;">
-                <img id="logo-inline" width="80" src="images/logo_responsive.png" alt="logo"/>
+                <h1 class="logo-inline-responsive">
+                    <a href="index.php">
+                        <img src="images/logo_responsive.png" width="80" alt="logo"/>
+                    </a>
+                </h1>
             </div>
             <div id="nav">
                 <div class="ul_wrapper">
