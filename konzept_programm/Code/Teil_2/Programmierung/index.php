@@ -6,6 +6,7 @@ include 'includes/header.php'
     <div id="slider" class="nivoSlider">
         <img src="images/background.jpg" data-thumb="images/background.jpg" alt="" />
         <img src="images/background-2.jpg" data-thumb="images/background.jpg" alt="" />
+        <img src="images/background-3.jpg" data-thumb="images/background.jpg" alt="" />
     </div>
     <div class="buttons_outa_wrapper">
         <div class="buttons_inner_wrapper">
