@@ -2,10 +2,10 @@
 include('includes/header.php');
 require('includes/db.php');
 
-if (isset($_GET['id'])) {
+if (isset($_GET['name'])) {
 
-    $query = $db->prepare('SELECT * FROM marker WHERE id = :id');
-    $query->execute(array('id' => $_GET['id']));
+    $query = $db->prepare('SELECT * FROM marker WHERE name = :name');
+    $query->execute(array('name' => $_GET['name']));
     $data = $query->fetch();
 
     if (!$data) {
