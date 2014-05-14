@@ -21,7 +21,9 @@ $(function() {
 
                 map.setCenter(userPos);
                 map.setZoom(7);
-                /*
+                
+                /* Setzt roten Marker auf die Posi von User - no need in diesem Fall
+
                  var marker = new google.maps.Marker({
                  map: map,
                  position: userPos,
@@ -38,7 +40,9 @@ $(function() {
                  strokeColor: '#0000FF',
                  strokeOpacity: 0.2
                  }
-                 );*/
+                 );
+                
+                 */
             }
     );
 
