@@ -42,6 +42,13 @@ include 'includes/header.php'
     </div>
 </div>
 
+<div class="map-title-bottom">
+    <hgroup>
+        <h1>Die <strong class="green-strong"> besten Infos </strong> ueber alle <strong class="green-strong"> Studios! </strong></h1>
+        <h3>bekommt ihr <strong class="green-strong"> nur </strong> auf unserer Seite! </h3>
+    </hgroup>
+</div>
+
 <?php
 include 'includes/footer.php'
 ?>     

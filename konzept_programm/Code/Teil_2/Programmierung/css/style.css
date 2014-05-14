@@ -59,6 +59,18 @@ p {
     padding-top: 30px;
     width: 100%;
 }
+#wrapper-submit {
+    background: none repeat scroll 0 0 #FFFFFF !important;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    width: 100%;
+}
+#wrapper-danke {
+    background: none repeat scroll 0 0 #FFFFFF !important;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    width: 100%;
+}
 #wrapper-details {
     background: none repeat scroll 0 0 #FFFFFF !important;
     height: 615px;
@@ -214,10 +226,25 @@ p {
     padding-bottom: 20px;
 }
 .map-title {
-    border-bottom: 1px inset #36CC7C;
+    border-bottom: 1px solid #36CC7C;
     padding-bottom: 30px;
     padding-top: 30px;
     text-align: center;
+}
+.map-title-bottom {
+    border-top: 1px solid #36CC7C;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+}
+.map-title-bottom-danke {
+    border-top: 1px solid #36CC7C;
+    bottom: 156px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
 }
 .kommentar-wrapper {
     word-wrap: break-word;
@@ -227,22 +254,27 @@ p {
 
 /* ====== FOOTERSTYLES ====== */
 
-#footer{
-    height:150px;
-    background-color: #36CC7C;
-    width:100%;
+#footer, #footer-danke {
+    background-color: #242424;
+    border-top: 6px solid #36CC7C;
+    height: 150px;
+    width: 100%;
 }
-#footer a{
+#footer a, #footer-danke a{
     text-decoration: none;
 }
-#footer span{
+#footer span, #footer-danke span{
     color: #FFF;
     transition: color 0.4s ease 0s;
 }
-#footer span:hover {
+#footer span:hover, #footer-danke span:hover {
     text-decoration: none;
-    color: #242424;
+    color: #36CC7C;
     transition: color 0.4s ease 0s;
+}
+#footer-danke {
+    bottom: 0;
+    position: absolute;
 }
 #inner_footer {
     margin: 0 auto;
