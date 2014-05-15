@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>WM Marco Kudala | Adrian Zimmermann | Felix Werkstetter</title>
+        <title>Fitness Opinion</title>
 
-        <meta charset="UTF-8">
+        <meta charset="windows-1252">
         <meta name="viewport" content="width=device-width">
 
         <!--CSS import-->

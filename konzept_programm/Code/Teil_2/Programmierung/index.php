@@ -17,7 +17,7 @@ include 'includes/header.php'
                     <h1 class="h1-button-second">Your Ambition</h1>
                 </div>
                 <p class="p-button">
-                    Das Ausdauertraining unterst&uuml;tzt den Fettabbau, st&auml;rkt dein Immunsystem und du f&uuml;hlst dich einfach wohler.
+                    Das Ausdauertraining unterstützt den Fettabbau, stäkt dein Immunsystem und du fühlst dich einfach wohler.
                 </p>
             </div>
             <div id="button_second" class="button-index">
@@ -27,7 +27,7 @@ include 'includes/header.php'
                     <h1 class="h1-button-second">Your Dream</h1>
                 </div>
                 <p class="p-button">
-                    Das Krafttraining mit den unterschiedlichen Trainingsger&auml;ten f&ouml;rdert das Wachstum deiner Muskeln.
+                    Das Krafttraining mit den unterschiedlichen Trainingsgeräten fördert das Wachstum deiner Muskeln.
                 </p>
             </div>
             <div id="button_third" class="button-index">
@@ -37,7 +37,7 @@ include 'includes/header.php'
                     <h1 class="h1-button-second">Stay Tuned</h1>
                 </div>
                 <p class="p-button">
-                    Hohe Gewichte trainieren die Maximalkraft und schulen die muskul&auml;re Koordination durch die freien Bewegungen.
+                    Hohe Gewichte trainieren die Maximalkraft und schulen die muskuläre Koordination durch die freien Bewegungen.
                 </p>
             </div>
         </div>
@@ -47,7 +47,7 @@ include 'includes/header.php'
     <div id="content-index">
         <div class="a-div">
             <h1 class="h1-button-first">Markiere jetzt dein Fitnessstudio</h1>
-            <p class="p-button">und teile uns zus&auml;tzlich deine Meinung mit!</p>
+            <p class="p-button">und teile uns zusätzlich deine Meinung mit!</p>
             <a class="button" href="markieren.php">Markiere dich</a>
         </div>
     </div>

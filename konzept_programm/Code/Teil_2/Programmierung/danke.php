@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>WM Marco Kudala | Adrian Zimmermann | Felix Werkstetter</title>
+        <title>Fitness Opinion</title>
 
-        <meta charset="UTF-8">
+        <meta charset="windows-1252">
         <meta name="viewport" content="width=device-width">
 
         <!--CSS import-->
@@ -61,14 +61,14 @@
 
         <div class="map-title">
             <hgroup>
-                <h1>Deine <strong class="green-strong">Mitteilung</strong> wurde &uuml;bermittelt,</h1>
-                <h3>wir werden uns so <strong class="green-strong">schnell wie m&ouml;glich</strong> darum k&uuml;mmern.</h3>
+                <h1>Deine <strong class="green-strong">Mitteilung</strong> wurde übermittelt,</h1>
+                <h3>wir werden uns so <strong class="green-strong">schnell wie möglich</strong> darum kümmern.</h3>
             </hgroup>
         </div>
 
         <div id="wrapper-danke">   
             <div id="content-danke">
-                <h1 class="h1-locate">Vielen Dank f&uuml;r deine <strong class="green-strong">Mitteilung</strong></h1>
+                <h1 class="h1-locate">Vielen Dank für deine <strong class="green-strong">Mitteilung</strong></h1>
                 <p>Schnelligkeit ist unsere Tugend!</p>
                 <a class="button" href="index.php">Startseite</a>
             </div>
@@ -76,7 +76,7 @@
 
         <div class="map-title-bottom-danke">
             <hgroup>
-                <h1>Die <strong class="green-strong"> besten Infos </strong> &uuml;ber alle <strong class="green-strong"> Studios! </strong></h1>
+                <h1>Die <strong class="green-strong"> besten Infos </strong> über alle <strong class="green-strong"> Studios! </strong></h1>
                 <h3>bekommt ihr <strong class="green-strong"> nur </strong> auf unserer Seite! </h3>
             </hgroup>
         </div>
