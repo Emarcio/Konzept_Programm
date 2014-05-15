@@ -35,10 +35,9 @@ if (isset($_POST['name']) &&
         <meta name="viewport" content="width=device-width">
 
         <!--CSS import-->
+        <link rel="icon" type="image/png" href="images/logo_responsive.png" />
         <link rel="stylesheet" href="css/style.css" />
         <link rel="stylesheet" href="css/typo.css" />
-
-        <!--SLIDER import-->
         <link rel="stylesheet" href="themes/default/default.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="css/nivo_style.css" type="text/css" media="screen" />
@@ -46,6 +45,7 @@ if (isset($_POST['name']) &&
         <link rel="stylesheet" href="css/meanmenu.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="css/maps.css" />
 
+        <!--JS import-->
         <script type="text/javascript" src="scripts/jquery-1.9.0.min.js"></script>
         <script type="text/javascript" src="scripts/modernizr.js"></script>
         <script type="text/javascript" src="scripts/jquery.js"></script>
