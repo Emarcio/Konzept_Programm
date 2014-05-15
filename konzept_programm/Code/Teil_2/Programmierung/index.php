@@ -16,8 +16,9 @@ include 'includes/header.php'
                     <h1 class="h1-button-first">Your Lifestyle</h1>
                     <h1 class="h1-button-second">Your Ambition</h1>
                 </div>
-                <p class="p-button">lorem ipsum text lorem ipsum text lorem ipsum text
-                    lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text</p>
+                <p class="p-button">
+                    Das Ausdauertraining unterst&uuml;tzt den Fettabbau, st&auml;rkt dein Immunsystem und du f&uuml;hlst dich einfach wohler.
+                </p>
             </div>
             <div id="button_second" class="button-index">
                 <img width="330" src="images/fitness_men.jpg" alt="man" />
@@ -25,8 +26,9 @@ include 'includes/header.php'
                     <h1 class="h1-button-first">Your Goal</h1>
                     <h1 class="h1-button-second">Your Dream</h1>
                 </div>
-                <p class="p-button">lorem ipsum text lorem ipsum text lorem ipsum text
-                    lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text</p>
+                <p class="p-button">
+                    Das Krafttraining mit den unterschiedlichen Trainingsger&auml;ten f&ouml;rdert das Wachstum deiner Muskeln.
+                </p>
             </div>
             <div id="button_third" class="button-index">
                 <img width="330" src="images/fitness-studio.jpg" alt="studio" />
@@ -34,8 +36,9 @@ include 'includes/header.php'
                     <h1 class="h1-button-first">Stay Focused</h1>
                     <h1 class="h1-button-second">Stay Tuned</h1>
                 </div>
-                <p class="p-button">lorem ipsum text lorem ipsum text lorem ipsum text
-                    lorem ipsum text lorem ipsum text lorem ipsum text lorem ipsum text</p>
+                <p class="p-button">
+                    Hohe Gewichte trainieren die Maximalkraft und schulen die muskul&auml;re Koordination durch die freien Bewegungen.
+                </p>
             </div>
         </div>
     </div>
