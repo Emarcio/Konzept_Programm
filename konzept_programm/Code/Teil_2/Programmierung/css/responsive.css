@@ -98,6 +98,14 @@
     #footer-danke {
         position: relative !important;
     }
+    #content-map {
+        margin-left: .5%;
+        margin-right: .5%;
+        width: 99%;
+    }
+    #wrapper-map {
+        background: none repeat scroll 0 0 #36CC7C !important;
+    }
 }
 @media only screen and (max-width: 420px) {
     .mean-container a.meanmenu-reveal {
