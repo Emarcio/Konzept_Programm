@@ -17,6 +17,7 @@
         <link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="css/meanmenu.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="css/maps.css" />
+        <link rel="icon" type="image/png" href="images/logo_responsive.png" />
 
         <script type="text/javascript" src="scripts/jquery-1.9.0.min.js"></script>
         <script type="text/javascript" src="scripts/modernizr.js"></script>
