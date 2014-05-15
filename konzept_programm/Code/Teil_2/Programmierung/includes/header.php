@@ -22,6 +22,7 @@
         <script type="text/javascript" src="scripts/modernizr.js"></script>
         <script type="text/javascript" src="scripts/jquery.js"></script>
 
+
         <!--IF CHROME extra styles-->
         <script type="text/javascript">
             if (navigator.userAgent.toLowerCase().indexOf('chrome') != -1) {

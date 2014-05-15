@@ -44,7 +44,7 @@ include 'includes/header.php'
     <div id="content-index">
         <div class="a-div">
             <h1 class="h1-button-first">Markiere jetzt dein Fitnessstudio</h1>
-            <p class="p-button">und teile uns zusaetzlich deine Meinung mit!</p>
+            <p class="p-button">und teile uns zus&auml;tzlich deine Meinung mit!</p>
             <a class="button" href="markieren.php">Markiere dich</a>
         </div>
     </div>

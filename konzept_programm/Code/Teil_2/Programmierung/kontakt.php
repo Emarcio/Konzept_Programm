@@ -4,7 +4,7 @@ include 'includes/header.php'
 
 <div class="map-title">
     <hgroup>
-        <h1>Fuell das <strong class="green-strong">Formular</strong> aus</h1>
+        <h1>F&uuml;ll das <strong class="green-strong">Formular</strong> aus</h1>
         <h3>und wir werden asap <strong class="green-strong">antworten.</strong></h3>
     </hgroup>
 </div>
@@ -44,7 +44,7 @@ include 'includes/header.php'
 
 <div class="map-title-bottom">
     <hgroup>
-        <h1>Die <strong class="green-strong"> besten Infos </strong> ueber alle <strong class="green-strong"> Studios! </strong></h1>
+        <h1>Die <strong class="green-strong"> besten Infos </strong> &uuml;ber alle <strong class="green-strong"> Studios! </strong></h1>
         <h3>bekommt ihr <strong class="green-strong"> nur </strong> auf unserer Seite! </h3>
     </hgroup>
 </div>

@@ -13,7 +13,7 @@ include 'includes/header.php'
     <div id="content-map">
         <div id="map">
             <h1 class="h1-locate-not">Die Karte wird geladen...</h1>
-            <p class="p-locate-not">Zurueck zur Hauptseite</p>
+            <p class="p-locate-not">Zur&uuml;ck zur Hauptseite</p>
             <div class="button-locate-not">
                 <a class="button" href="karte.php">Home</a>
             </div>
@@ -24,7 +24,7 @@ include 'includes/header.php'
 
 <div class="map-title-bottom">
     <hgroup>
-        <h1>Die <strong class="green-strong"> besten Infos </strong> ueber alle <strong class="green-strong"> Studios! </strong></h1>
+        <h1>Die <strong class="green-strong"> besten Infos </strong> &uuml;ber alle <strong class="green-strong"> Studios! </strong></h1>
         <h3>bekommt ihr <strong class="green-strong"> nur </strong> auf unserer Seite! </h3>
     </hgroup>
 </div>

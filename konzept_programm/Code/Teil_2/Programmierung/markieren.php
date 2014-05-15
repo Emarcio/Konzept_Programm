@@ -32,7 +32,7 @@ include 'includes/header.php'
                 <textarea style="max-width: 1020px; min-height: 50px;" rows="10" cols="10" name="kommentar" placeholder="Teile uns deine Meinung mit"></textarea>
             </div>
             <select name="public">
-                <option value="1">Oeffentlich</option>
+                <option value="1">&Ouml;ffentlich</option>
                 <option value="0">Privat</option>
             </select>
             <div class="button-field">
@@ -45,7 +45,7 @@ include 'includes/header.php'
 
 <div class="map-title-bottom">
     <hgroup>
-        <h1>Die <strong class="green-strong"> besten Infos </strong> ueber alle <strong class="green-strong"> Studios! </strong></h1>
+        <h1>Die <strong class="green-strong"> besten Infos </strong> &uuml;ber alle <strong class="green-strong"> Studios! </strong></h1>
         <h3>bekommt ihr <strong class="green-strong"> nur </strong> auf unserer Seite! </h3>
     </hgroup>
 </div>

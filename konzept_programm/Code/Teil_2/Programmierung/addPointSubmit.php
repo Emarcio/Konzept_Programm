@@ -89,22 +89,22 @@ if (isset($_POST['name']) &&
 
         <div class="map-title">
             <hgroup>
-                <h1>Deine <strong class="green-strong">Markierung</strong> wurde uebermittelt,</h1>
+                <h1>Deine <strong class="green-strong">Markierung</strong> wurde &uuml;bermittelt,</h1>
                 <h3>folge nun der kleinen <strong class="green-strong">Anleitung</strong> hier unten.</h3>
             </hgroup>
         </div>
 
         <div id="wrapper-submit">   
             <div id="content-danke">
-                <h1 class="h1-locate">Vielen Dank fuer deine Markierung!</h1>
-                <p>Kehre nun zur Karte zurueck und begutachte deinen Marker</p>
+                <h1 class="h1-locate">Vielen Dank f&uuml;r deine Markierung!</h1>
+                <p>Kehre nun zur Karte zur&uuml;ck und begutachte deinen Marker</p>
                 <a class="button" href="karte.php">Karte</a>
             </div>
         </div>
 
         <div class="map-title-bottom-danke">
             <hgroup>
-                <h1>Die <strong class="green-strong"> besten Infos </strong> ueber alle <strong class="green-strong"> Studios! </strong></h1>
+                <h1>Die <strong class="green-strong"> besten Infos </strong> &uuml;ber alle <strong class="green-strong"> Studios! </strong></h1>
                 <h3>bekommt ihr <strong class="green-strong"> nur </strong> auf unserer Seite! </h3>
             </hgroup>
         </div>

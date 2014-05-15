@@ -30,8 +30,8 @@ if (isset($_GET['name'])) {
 
 <div class="map-title">
     <hgroup>
-        <h1>Hier siehst du die <strong class="green-strong">Kommentare</strong>,</h1>
-        <h3>welche zu den <strong class="green-strong">Studios</strong> geschrieben worden sind.</h3>
+        <h1>Hier siehst du den <strong class="green-strong">Kommentar</strong> und den <strong class="green-strong">Kommentator</strong></h1>
+        <h3>zu dem jeweiligen <strong class="green-strong"> Studio!</strong></h3>
     </hgroup>
 </div>
 
@@ -45,7 +45,7 @@ if (isset($_GET['name'])) {
         </div>
 
         <div class="button-field">
-            <h3 class="h3-details">Zurueck zur Karte</h3>
+            <h3 class="h3-details">Zur&uuml;ck zur Karte</h3>
             <a class="button" href="karte.php">Karte</a>
         </div> 
     </div>
@@ -53,7 +53,7 @@ if (isset($_GET['name'])) {
 
 <div class="map-title-bottom">
     <hgroup>
-        <h1>Die <strong class="green-strong"> besten Infos </strong> ueber alle <strong class="green-strong"> Studios! </strong></h1>
+        <h1>Die <strong class="green-strong"> besten Infos </strong> &uuml;ber alle <strong class="green-strong"> Studios! </strong></h1>
         <h3>bekommt ihr <strong class="green-strong"> nur </strong> auf unserer Seite! </h3>
     </hgroup>
 </div>

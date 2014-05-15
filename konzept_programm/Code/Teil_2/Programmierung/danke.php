@@ -61,22 +61,22 @@
 
         <div class="map-title">
             <hgroup>
-                <h1>Deine <strong class="green-strong">Mitteilung</strong> wurde uebermittelt,</h1>
-                <h3>wir werden uns so <strong class="green-strong">schnell wie moeglich</strong> darum kuemmern.</h3>
+                <h1>Deine <strong class="green-strong">Mitteilung</strong> wurde &uuml;bermittelt,</h1>
+                <h3>wir werden uns so <strong class="green-strong">schnell wie m&ouml;glich</strong> darum k&uuml;mmern.</h3>
             </hgroup>
         </div>
 
         <div id="wrapper-danke">   
             <div id="content-danke">
-                <h1 class="h1-locate">Vielen Dank fuer deine Mitteilung</h1>
-                <p>Wir werden uns so schnell wie morglich um dein Anliegen kuemmern</p>
+                <h1 class="h1-locate">Vielen Dank f&uuml;r deine <strong class="green-strong">Mitteilung</strong></h1>
+                <p>Schnelligkeit ist unsere Tugend!</p>
                 <a class="button" href="index.php">Startseite</a>
             </div>
         </div>
 
         <div class="map-title-bottom-danke">
             <hgroup>
-                <h1>Die <strong class="green-strong"> besten Infos </strong> ueber alle <strong class="green-strong"> Studios! </strong></h1>
+                <h1>Die <strong class="green-strong"> besten Infos </strong> &uuml;ber alle <strong class="green-strong"> Studios! </strong></h1>
                 <h3>bekommt ihr <strong class="green-strong"> nur </strong> auf unserer Seite! </h3>
             </hgroup>
         </div>
